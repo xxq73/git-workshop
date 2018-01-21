@@ -10,3 +10,5 @@ def fizzbuzz(n):
             print "buzz"
         else:
             print i
+
+#what the fuck is python.
